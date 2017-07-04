@@ -1,2 +1,2 @@
-naive_bayes.py contains the code for naive bayes algorithm, it a function which is used by main.py along with prep_terrain_data.py and class_vis.py
-to create a graph which is naive_bayes.PNG and the accuracy of this algo is in accuracy file.
+naive_bayes.py contains the code for naive bayes algorithm, it a function which is used by main.py along with prep_terrain_data.py
+and class_vis.py to create a graph which is naive_bayes.PNG and the accuracy of this algo is in accuracy file.
