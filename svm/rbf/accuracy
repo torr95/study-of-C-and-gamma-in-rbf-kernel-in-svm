@@ -1,0 +1,5 @@
+for all, C=100
+gamma=1, accuracy=0.924 which was 0.916 without gamma.
+gamma=10, accuracy=0.94 which was 0.916 without gamma.
+gamma=100, accuracy=0.94 which was 0.916 without gamma.
+gamma=1000, accuracy=0.916 which was 0.916 without gamma.
