@@ -1,4 +1,4 @@
-There are three mainly parameters in support vector machine which are:
+There are mainly 3 parameters in support vector machine which are:
 1.kernel
 2.C
 3.gamma
